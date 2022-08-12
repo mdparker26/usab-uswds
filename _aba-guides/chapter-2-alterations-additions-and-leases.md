@@ -6,6 +6,8 @@ file-description: PDF version of Chapter 2 Alterations Guide
 ---
 This guide provides an introduction to the scoping requirements of the [ABA Standards]({{ site.baseurl }}/aba/) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
 
+{% include sr-dimension-markings.html %}
+
 ### General
 
 [[§F202.1]({{ site.baseurl }}/aba/#aba-f202_1)]
@@ -108,7 +110,7 @@ text= "Compliant fire alarm systems are required only in alterations where fire 
 img-file= "chapter2-ada/a9.jpg"
 img-alt= "ramp symbol"
 text-title= "Ramps"
-text= "Slightly steeper running slopes are permitted for short ramps (maximum 6\" rise) where space is limited (§405.2, Ex.)."
+text= "Slightly steeper running slopes are permitted for short ramps (maximum 6&Prime; rise) where space is limited (§405.2, Ex.)."
 %}
 
 {% include_cached grid-2col-leftimg-righttextboldstditalic.html

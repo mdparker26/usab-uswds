@@ -11,6 +11,8 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 -   required clearances, including clear floor space, wheelchair seating spaces, turning space, and door maneuvering clearances
 -   accessible parking spaces, access aisles, and accessible passenger loading zones.
 
+{% include sr-dimension-markings.html %}
+
 ### Firmness, Stability, and Slip Resistance
 
 [[§302.1]({{ site.baseurl }}/aba/#aba-302_1)]
@@ -49,7 +51,7 @@ text= "Avoid materials or construction methods that create bumpy and uneven surf
 
 [[§302.2]({{ site.baseurl }}/aba/#aba-302_2)]
 
-Carpet that is thick, cushiony, or loose impairs accessibility, particularly wheelchair maneuvering.  The standards specify the maximum pile height (1/2” measured to the backing, cushion, or pad) and texture (level or textured loop, level cut pile, or level cut/uncut pile) and require firm backing.  Cushions or pads also must be firm or can be avoided to ensure greater firmness. 
+Carpet that is thick, cushiony, or loose impairs accessibility, particularly wheelchair maneuvering.  The standards specify the maximum pile height (1/2 inches measured to the backing, cushion, or pad) and texture (level or textured loop, level cut pile, or level cut/uncut pile) and require firm backing.  Cushions or pads also must be firm or can be avoided to ensure greater firmness. 
 
 ![wheelchair rolling across carpet that is buckling]({{ site.baseurl }}{{ page.image-directory }}chapter3/3gf6.jpg){: .img-large}
 
@@ -62,12 +64,12 @@ Exposed edges must have trim on the entire length of the exposed edge and be fas
     <div class="tablet:grid-col">
       <span class="grid-line bold">Carpet Edge Treatment</span>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf7.jpg" alt="carpet with beveled edge">
-      <span class="grid-line text-italic" style="padding: 10px;">1/2” max height, 1:2 max beveled edge</span>
+      <span class="grid-line text-italic" style="padding: 10px;">1/2&Prime; maximumheight, 1:2 maximumbeveled edge</span>
     </div>
     <div class="tablet:grid-col">
       <span class="grid-line bold">Carpet to Tile Transition</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf8.jpg" alt="carpet to tile transition with straight edge 1/4 inch high max.">
-      <span class="grid-line text-italic" style="padding: 10px;">	Changes in level 1/4” max high permitted vertical edge</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf8.jpg" alt="carpet to tile transition with straight edge 1/4 inch high maximum">
+      <span class="grid-line text-italic" style="padding: 10px;">Changes in level 1/4&Prime; maximumhigh permitted vertical edge</span>
     </div>
   </div>
 </div>
@@ -76,34 +78,34 @@ Exposed edges must have trim on the entire length of the exposed edge and be fas
 
 [[§302.3]({{ site.baseurl }}/aba/#aba-302_3)]
 
-Openings in ground and floor surfaces, such as grates, are limited in width to prevent passage of a ½” diameter sphere.  Wheelchair casters can get wedged into wider openings. 
+Openings in ground and floor surfaces, such as grates, are limited in width to prevent passage of a ½&Prime; diameter sphere.  Wheelchair casters can get wedged into wider openings. 
 
 #### Surface Opening (Cross Section)
 
-![Cross section of surface opening 1/2" wide max with no max. depth]({{ site.baseurl }}{{ page.image-directory }}chapter3/3gf9.jpg){: .img-large}
+![Cross section of surface opening 1/2 inches wide maximumwith no maximum depth]({{ site.baseurl }}{{ page.image-directory }}chapter3/3gf9.jpg){: .img-large}
 
 {% include grid-2col-largeleftimg-righttext.html
 img-file= "chapter3/3gf10.jpg"
 img-alt= "grate openings oriented so that long dimensions is perpendicular to travel direction"
 text-title= ""
-text= "Elongated openings, like those of most grates, must be oriented so that the long dimension is perpendicular to the dominant travel direction.  In locations where there is no dominant flow pattern, openings must be limited to ½” in both dimensions.  Where an accessible route is available to bypass openings completely, they can be oriented in any direction."
+text= "Elongated openings, like those of most grates, must be oriented so that the long dimension is perpendicular to the dominant travel direction.  In locations where there is no dominant flow pattern, openings must be limited to ½&Prime; in both dimensions.  Where an accessible route is available to bypass openings completely, they can be oriented in any direction."
 %}
 
 ### Changes in Level
 
 [[§303]({{ site.baseurl }}/aba/#aba-303)
 
-Changes in level can be up to ¼” without treatment or ½” if beveled with a slope no steeper than 1:2.  Changes in level above a ½” must be treated as a ramp or curb ramp (or a walkway if a slope no steeper than 1:20 can be achieved).  These specifications apply to all portions of accessible routes, including thresholds and carpet trim.
+Changes in level can be up to ¼&Prime; without treatment or ½&Prime; if beveled with a slope no steeper than 1:2.  Changes in level above a ½&Prime; must be treated as a ramp or curb ramp (or a walkway if a slope no steeper than 1:20 can be achieved).  These specifications apply to all portions of accessible routes, including thresholds and carpet trim.
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <span class="grid-line bold">1/4” Max Change in Level</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf11.jpg" alt="straight edge 1/4 inch high max.">
+      <span class="grid-line bold">1/4&Prime; Maximum Change in Level</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf11.jpg" alt="straight edge 1/4 inch high maximum">
     </div>
     <div class="tablet:grid-col">
-      <span class="grid-line bold">1/2” Max Change in Level</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf12.jpg" alt="Change in level 1 foot 2 inches high max. with 1:2 bevel">
+      <span class="grid-line bold">1/2&Prime; Maximum Change in Level</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3gf12.jpg" alt="Change in level 1 foot 2 inches high maximum with 1:2 bevel">
     </div>
   </div>
 </div>
@@ -122,8 +124,8 @@ The standards require ground and floor surfaces to be slip resistant, but they d
 
 #### Is there a minimum distance between changes in level?
 
-The standards do not require a minimum horizontal separation between changes in level of a ½” or less. Such level changes may need to be in close proximity, such as at raised thresholds (otherwise a minimum 48” separation will provide enough wheelchair space so that only one vertical change is negotiated at a time). Ramps and curb ramps, which must be used to span vertical changes greater than ½”, must have level landings and clearances at the tops and bottoms of each run to provide adequate separation and resting intervals between sloping surfaces. 
+The standards do not require a minimum horizontal separation between changes in level of a ½&Prime; or less. Such level changes may need to be in close proximity, such as at raised thresholds (otherwise a minimum 48 inches separation will provide enough wheelchair space so that only one vertical change is negotiated at a time). Ramps and curb ramps, which must be used to span vertical changes greater than ½ inches, must have level landings and clearances at the tops and bottoms of each run to provide adequate separation and resting intervals between sloping surfaces. 
 
 #### Elongated surface openings must be perpendicular to the dominant direction of travel, but what if there is no dominant direction of travel?
 
-When there is no dominant direction of cross traffic, openings must be limited to ½” in both dimensions. Where space allows accessible routes to completely bypass the area with openings, elongated openings can be oriented in either direction.
+When there is no dominant direction of cross traffic, openings must be limited to ½&Prime; in both dimensions. Where space allows accessible routes to completely bypass the area with openings, elongated openings can be oriented in either direction.

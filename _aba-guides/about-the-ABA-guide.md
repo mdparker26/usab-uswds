@@ -1,7 +1,7 @@
 ---
 title: "About the ABA guide"
 order-number: 0
-permalink: /aba/guides/
+permalink: /aba/guides/`
 file-description: Single file PDF version of the ABA Guides Ch 1-5
 redirect_from:
     - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/
