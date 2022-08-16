@@ -6,6 +6,8 @@ file-description: PDF version of Chapter 4 Entrances, Doors, and Gates Guide
 ---
 This guide explains scoping and technical requirements for accessible entrances, doors and gates in the [ABA Standards]({{ site.baseurl }}/aba/). 
 
+{% include sr-dimension-markings.html %}
+
 ### Accessible Entrances: Minimum Number
 
 [[§F206.4]({{ site.baseurl }}/aba/#aba-f206_4)]
@@ -58,7 +60,7 @@ If entrances are restricted to certain occupants on a controlled basis, at least
     <div class="tablet:grid-col">
       <h3>Two-Way Communication Systems</h3>
       <p>[<a href="{{ site.baseurl }}/aba/#aba-f230">F230</a>]</p>
-      <p>Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29” long. Control buttons and other operable parts must comply at those systems located at accessible entrances.</p>
+      <p>Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29 inches long. Control buttons and other operable parts must comply at those systems located at accessible entrances.</p>
     </div>
   </div>
 </div>
@@ -94,14 +96,14 @@ Compliance is required for doors, doorways, and gates providing user passage on 
 #### Manual Doors and Gates 
 [[§404.2]({{ site.baseurl }}/aba/#aba-404_2)]
 
-![Door with hardware 34” – 48” high measured to operable portions, a vision panel 43” max. above the floor measured the bottom edge, and smooth surface on the bottom of the push side 10” high min. extending full width of door.  Notes:  Closing Speed (§404.2.8) Closers: 5 sec. min.  from 90 degrees to 12 degrees (spring hinges: 1.5 sec. min. from 70⁰ to 0⁰), Opening Force (§404.2.9)  5 lbf max. (excluding exterior hinged doors and fire doors), Vision/ Side Lights (if provided) (§404.2.11) , Accessible viewing height 43” max. unless not intended for viewing       (i.e., lowest part above 66”), Hardware (§404.2.7) Operable parts must comply, Smooth Surface (§404.2.10) Required at the bottom on the push side, Thresholds (§404.2.5) 1/2” max. high (beveled if above 1/4”), Maneuvering Clearance (§404.2.4) required on both sides (unless door or gate is used in one direction only), Double-Leaf Doors (§404.2.2) One active leaf of double-leaf doors is required to meet criteria for clear width and maneuvering clearance.  Other door requirements apply to both leaves.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg8ab.jpg){: .img-large}
+![Door with hardware 34 inches to 48 inches high measured to operable portions, a vision panel 43 inches maximum above the floor measured the bottom edge, and smooth surface on the bottom of the push side 10 inches high minimum extending full width of door.  Notes:  Closing Speed (§404.2.8) Closers: 5 seconds minimum from 90 degrees to 12 degrees (spring hinges: 1.5 seconds minimum from 70⁰ to 0⁰), Opening Force (§404.2.9)  5 pound-force maximum (excluding exterior hinged doors and fire doors), Vision/ Side Lights (if provided) (§404.2.11) , Accessible viewing height 43 inches maximum unless not intended for viewing (i.e., lowest part above 66 inches), Hardware (§404.2.7) Operable parts must comply, Smooth Surface (§404.2.10) Required at the bottom on the push side, Thresholds (§404.2.5) 1/2 inches maximum high (beveled if above 1/4 inches), Maneuvering Clearance (§404.2.4) required on both sides (unless door or gate is used in one direction only), Double-Leaf Doors (§404.2.2) One active leaf of double-leaf doors is required to meet criteria for clear width and maneuvering clearance.  Other door requirements apply to both leaves.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg8ab.jpg){: .img-large}
 
 ### Clear Width
 
 [[§404.2.3]({{ site.baseurl }}/aba/#aba-404_2_3)]
 
 <div class="clearfix" markdown="1">
-![Clear width 32” min. shown measured from the stop to the face of the door open 90 degrees]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg9.jpg){: .img-right}
+![Clear width 32 inches minimum shown measured from the stop to the face of the door open 90 degrees]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg9.jpg){: .img-right}
 
 The clear width is measured from the stop to the face of doors or gates open 90⁰ (or to the leading edge of sliding or folding doors. No projection into the clear width is permitted below 34.”
 </div>
@@ -125,8 +127,8 @@ Required maneuvering clearances provide space for opening and proceeding through
       <span class="grid-line text-italic">Required door clearances provide unobstructed space for maneuvering through doorways.</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg12.jpg" alt="Maneuvering clearance at door shown to be 80 inches high min.">
-      <span class="grid-line text-italic">Maneuvering clearances must be free of protrusions the full height (80" min.) and changes in level (other than thresholds).</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg12.jpg" alt="Maneuvering clearance at door shown to be 80 inches high minimum">
+      <span class="grid-line text-italic">Maneuvering clearances must be free of protrusions the full height (80" minimum) and changes in level (other than thresholds).</span>
     </div>
   </div>
 </div>    
@@ -145,20 +147,20 @@ Clearance beyond the latch side is not required at entry doors to hospital patie
 
 [[§404.2.4.3]({{ site.baseurl }}/aba/#aba-404_2_4_3)]
 
-![Door maneuvering clearance 8” max. from face of the door.  Note:  The maneuvering clearance is measured from the wall but cannot be offset more than 8” from the face of the door.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg15a.jpg){: .img-full}
+![Door maneuvering clearance 8 inches maximum from face of the door.  Note:  The maneuvering clearance is measured from the wall but cannot be offset more than 8 inches from the face of the door.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg15a.jpg){: .img-full}
 
-Thick walls, casework, shelving, columns and other elements can cause doors or gates to be recessed.  If any obstruction within 18” of the latch side projects more than 8” from the face of a door or gate, maneuvering clearances for a forward approach must be provided.  This space must be inset at obstructions so that it is no more than 8” from the face of the door or gate.
+Thick walls, casework, shelving, columns and other elements can cause doors or gates to be recessed.  If any obstruction within 18&Prime; of the latch side projects more than 8&Prime; from the face of a door or gate, maneuvering clearances for a forward approach must be provided.  This space must be inset at obstructions so that it is no more than 8&Prime; from the face of the door or gate.
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg16.jpg" alt="Door in shallow recess with maneuvering clearance 8 inches max from face of
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg16.jpg" alt="Door in shallow recess with maneuvering clearance 8 inches maximumfrom face of
 door">
       <span class="grid-line text-italic">Walls and other obstructions can offset the maneuvering clearance up to 8" from the face of the door.</span>
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg17.jpg" alt="Door in deep recess over 8 inches deep with maneuvering clearance for
-forward approach 8 inches max from face of the door">
+forward approach 8 inches maximumfrom face of the door">
       <span class="grid-line text-italic">At deeper recesses, the maneuvering clearance must be sized for a forward approach and located 8" maximum from the face of the door.</span>
     </div>
   </div>
@@ -171,25 +173,25 @@ forward approach 8 inches max from face of the door">
 <div class="clearfix" markdown="1">
 ![Threshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
 
-The height of thresholds is limited to 1/2” in new construction.  The edge must be beveled 1:2 maximum above a height of 1/4”.  A maximum height of 3/4” is permitted for existing or altered thresholds if they have a beveled edge on each side with a slope not steeper than 1:2.  These requirements apply to all types of doors required to comply, including sliding doors.
+The height of thresholds is limited to 1/2&Prime; in new construction.  The edge must be beveled 1:2 maximum above a height of 1/4&Prime;.  A maximum height of 3/4&Prime; is permitted for existing or altered thresholds if they have a beveled edge on each side with a slope not steeper than 1:2.  These requirements apply to all types of doors required to comply, including sliding doors.
 </div>
 
 #### Threshold Profile
 
-![Threshold ¼” high max. with vertical sides.  Treshold ½” high max (3/4” max for existing/ altered thresholds) with vertical edge up to ¼” max and 1:2 max beveled edge above.  Note:  vertical edge must  be located below bevel, not above.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg19.jpg){: .img-large}
+![Threshold ¼ inches high maximum with vertical sides.  Treshold ½ inches high maximum(3/4 inches maximum for existing altered thresholds) with vertical edge up to ¼ inches maximumand 1:2 maximum beveled edge above. Note: vertical edge must  be located below bevel, not above.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg19.jpg){: .img-large}
   
 ### Doors and Gates in Series
 
 [[§404.2.6]({{ site.baseurl }}/aba/#aba-404_2_6)]
 
-At hinged or pivoted doors or gates in series, a separation is required that is at least 48” plus the width of doors or gates swinging into the space.  This allows users to clear one door or gate before opening the next and applies to those doors or gates that are opposite each other where travel through both doors is required.
+At hinged or pivoted doors or gates in series, a separation is required that is at least 48&Prime; plus the width of doors or gates swinging into the space.  This allows users to clear one door or gate before opening the next and applies to those doors or gates that are opposite each other where travel through both doors is required.
 
-![48” min. separation between swing of doors in series.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg20.jpg){: .img-large}
+![48 inches minimum separation between swing of doors in series.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg20.jpg){: .img-large}
 
 <div class="border padding-1 clearfix">
     <img src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg21.jpg" class="img-right" alt="Vestibule with doors on adjacent walls and wheelchair space highlighted that is between swing of doors">
     <img src="{{ site.baseurl }}/images/ada-aba/guides/compass.jpg" alt="design compass" class="float-left margin-1">
-    <p><em>Recommendation: </em>Wheelchair space 30” min. by 48” min. beyond the swing of a door in other configurations, such as vestibules with doors on adjacent walls, will provide room to clear one door before opening the next.</p>
+    <p><em>Recommendation: </em>Wheelchair space 30&Prime; minimum by 48&Prime; minimum beyond the swing of a door in other configurations, such as vestibules with doors on adjacent walls, will provide room to clear one door before opening the next.</p>
 </div>
 
 ### Door and Gate Hardware
@@ -203,7 +205,7 @@ Door and gate hardware must:
 *   allow one-hand operation
 *   not require tight grasping, pinching, or twisting of the wrist
 *   operate with 5 lbf maximum
-*   be located 34” to 48” above the floor or ground.
+*   be located 34&Prime; to 48&Prime; above the floor or ground.
 
 Hardware that can be operated with a loose grip or closed fist, such as lever-shaped handles and U-shaped pulls, accommodates the greatest range of users. (Closed-fist operation, while advisable, is not mandated by the Standards). Round door knobs do not comply because they require twisting of the wrist.
 
@@ -232,7 +234,7 @@ The 5 lbf maximum applies to the continuous application of force necessary to fu
 When using door gauges and other measuring devices, it is advisable to follow these steps (except where product instructions specify otherwise):
 
 - Open the door so that the face edge aligns with the door frame outside edge
-- Place gauge immediately above door operating hardware about 2½" from the latch edge of the door (approximately the centerline of the door hardware)
+- Place gauge immediately above door operating hardware about 2½&Prime; from the latch edge of the door (approximately the centerline of the door hardware)
 - Push slowly keeping the pressure gauge perpendicular to the face of the door
 - Remove the pressure gauge when the door is open 70 degrees.
 
@@ -256,12 +258,12 @@ text= "Automation of exterior doors is recommended, especially where the opening
 
 ![Detail of wheelchair user’s feet and footrests at open door with kickplate]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg24.jpg){: .img-right .img-medium}
 
-The bottom surface of doors and gates on the push side must be smooth to a height of at least 10”.  This facilitates access since mobility aids, including wheelchair footrests, are sometimes used to push or prop open doors.  Kick plates can be used to help protect door surfaces, but any gaps or cavities between the kick plate and the door surface must be closed or capped.  Horizontal or vertical joints in this surface cannot exceed a 1/16” variation in plane.
+The bottom surface of doors and gates on the push side must be smooth to a height of at least 10&Prime;.  This facilitates access since mobility aids, including wheelchair footrests, are sometimes used to push or prop open doors.  Kick plates can be used to help protect door surfaces, but any gaps or cavities between the kick plate and the door surface must be closed or capped.  Horizontal or vertical joints in this surface cannot exceed a 1/16&Prime; variation in plane.
 
 These requirements do not apply to:
 
 - Sliding doors
-- Doors and gates that do not extend to within 10” of the finish floor or ground
+- Doors and gates that do not extend to within 10&Prime; of the finish floor or ground
 - Existing doors or gates with kick plates (so long as cavities created by kick plates are capped)
 - Tempered glass doors without stiles if the top edge of the bottom rail or shoe is tapered at least 60⁰ from the horizontal.
 
@@ -314,7 +316,7 @@ They are activated by initial manual force, switches, or sensors. Most reduce, b
   
 #### Power-Assisted Door
 
-![Power-assisted automated door.  Notes: Clear Width 32” min., Threshold 1/2” max. high (beveled if above 1/4”), Manual Controls must comply as operable parts if provided  , Maneuvering Clearance required, Doors in Series 48” min. separation required between the swing of doors in series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg30.jpg){: .img-large}
+![Power-assisted automated door.  Notes: Clear Width 32 inches minimum, Threshold 1/2 inches maximum high (beveled if above 1/4 inches), Manual Controls must comply as operable parts if provided  , Maneuvering Clearance required, Doors in Series 48 inches minimum separation required between the swing of doors in series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg30.jpg){: .img-large}
 
 #### Low Energy Doors and Gates 
 [[§404.3]({{ site.baseurl }}/aba/#aba-404_3)
@@ -323,7 +325,7 @@ Low energy doors and gates usually require activation by the user through a push
   
 ##### Automated Door (Low Energy)
 
-![Low energy automated door.  Notes: Clear Width 32” min. (power on and off modes), Maneuvering Clearance is required at those doors serving an accessible means of egress that either lack standby power or that do not stay open in power-off mode, Threshold 1/2” max. high (beveled if above 1/4”), Manual Controls Compliant controls with clear floor space located outside door swing, Doors in Series 48” min. separation required between the swing of doors in series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg31.jpg){: .img-large}
+![Low energy automated door.  Notes: Clear Width 32 inches minimum (power on and off modes), Maneuvering Clearance is required at those doors serving an accessible means of egress that either lack standby power or that do not stay open in power-off mode, Threshold 1/2 inches maximum high (beveled if above 1/4 inches), Manual Controls Compliant controls with clear floor space located outside door swing, Doors in Series 48 inches minimum separation required between the swing of doors in series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg31.jpg){: .img-large}
 
 #### Controls
 
@@ -349,7 +351,7 @@ Full-powered automatic doors and gates are often found in grocery and retail sto
 
 #### Automated Door (Full-Powered)
 
- ![Full-powered automated door.  Notes:  Clear Width 32” min. (clear opening with all leaves in open position (power on and off modes), Break Out Opening 32’ min. (emergency mode) for doors on means of egress without standby power (unless a compliant manual swinging door also serves the same means of egress), Threshold 1/2” max. high (beveled if above 1/4”), Maneuvering Clearance is required at those doors serving an accessible means of egress that either lack standby power or that do not stay open in power-off mode, Industry Standard Compliance with the ANSI/BHMA A156.10 (1999), Doors in Series 48” min. separation between the swing of doors in series, Revolving Doors and Gates (§404.3.7), Manual revolving doors and gates and turnstiles are not accessible and cannot be part of accessible routes. Automated revolving doors, including those sized to facilitate access, do not meet the Standards. If they are provided at an accessible entrance, a compliant manual or automated door is also required.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg34.jpg){: .img-large}
+ ![Full-powered automated door.  Notes:  Clear Width 32 inches minimum (clear opening with all leaves in open position (power on and off modes), Break Out Opening 32 feet minimum (emergency mode) for doors on means of egress without standby power (unless a compliant manual swinging door also serves the same means of egress), Threshold 1/2 inches maximum high (beveled if above 1/4 inches), Maneuvering Clearance is required at those doors serving an accessible means of egress that either lack standby power or that do not stay open in power-off mode, Industry Standard Compliance with the ANSI/BHMA A156.10 (1999), Doors in Series 48 inches minimum separation between the swing of doors in series, Revolving Doors and Gates (§404.3.7), Manual revolving doors and gates and turnstiles are not accessible and cannot be part of accessible routes. Automated revolving doors, including those sized to facilitate access, do not meet the Standards. If they are provided at an accessible entrance, a compliant manual or automated door is also required.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg34.jpg){: .img-large}
 
 ### Common Questions
 
@@ -385,7 +387,7 @@ No, compliance is not required on both sides of those doors or gates that can be
 
 #### Can handrails or other elements overlap door maneuvering clearances?
 
-No, door maneuvering clearances must be free of any overlapping objects, even those providing knee and toe clearance, which can interfere with maneuvering at doors and doorways. However, door maneuvering clearances can be offset up to 8” from the face of the door or gate to accommodate wall thickness, casework, shelves, or other elements adjacent to doorways, including handrails. The door maneuvering clearance must be measured from the leading edge of such elements so that the full clearance is free of any obstruction.
+No, door maneuvering clearances must be free of any overlapping objects, even those providing knee and toe clearance, which can interfere with maneuvering at doors and doorways. However, door maneuvering clearances can be offset up to 8&Prime; from the face of the door or gate to accommodate wall thickness, casework, shelves, or other elements adjacent to doorways, including handrails. The door maneuvering clearance must be measured from the leading edge of such elements so that the full clearance is free of any obstruction.
 
 #### Is latch-side maneuvering clearance as specified in the Standards applicable to doors with panic bars?
 
@@ -399,28 +401,28 @@ No, non-fixed portions of door or gate hardware, including keys and access cards
 
 No. Some approaches require additional maneuvering clearances when a door or gate is equipped with a closer because of the additional force that must be counteracted in proceeding through doors. Since spring and gravity hinges do not significantly impact the opening force of doors, they are not considered “closers” for purposes of specifying door maneuvering clearance.
 
-#### Can maneuvering for a forward approach be provided when there is space at least 60” deep in front of a door?
+#### Can maneuvering for a forward approach be provided when there is space at least 60&Prime; deep in front of a door?
 
-Space at least 60” deep in front of a door that is unobstructed on approach sides will provide sufficient depth for a forward approach if appropriate strike-side clearance is provided; but in the case of pull-side/ hinge-side approaches, greater latch-side clearance (36” minimum) is still required because the minimum depth for this clearance is 60” (54” if the latch-side clearance is at least 42”).
+Space at least 60&Prime; deep in front of a door that is unobstructed on approach sides will provide sufficient depth for a forward approach if appropriate strike-side clearance is provided; but in the case of pull-side/ hinge-side approaches, greater latch-side clearance (36&Prime; minimum) is still required because the minimum depth for this clearance is 60&Prime; (54&Prime; if the latch-side clearance is at least 42&Prime;).
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg35.jpg" alt="Person using scooter making right angler turn at door in corridor 60 inches wide
-min.">
-      <span class="grid-line text-italic">Space at least 60” deep in front of a door will accommodate a forward approach, except in case of hinge approaches on the pull side.</span>
+minimum">
+      <span class="grid-line text-italic">Space at least 60&Prime; deep in front of a door will accommodate a forward approach, except in case of hinge approaches on the pull side.</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg36.jpg" alt="Pull-side hinge approach maneuvering clearance that is 60 inches deep min.
-and provides 36 inches min. strike-side clearance">
-      <span class="grid-line text-italic">On the pull side of hinge approaches, 36” min. latch-side clearance is required if the depth is 60” min.  (The depth can be 54” min. if the latch-side clearance is at least 42”.) </span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg36.jpg" alt="Pull-side hinge approach maneuvering clearance that is 60 inches deep minimum
+and provides 36 inches minimum strike-side clearance">
+      <span class="grid-line text-italic">On the pull side of hinge approaches, 36&Prime; minimum latch-side clearance is required if the depth is 60&Prime; minimum. (The depth can be 54&Prime; minimum if the latch-side clearance is at least 42&Prime;.) </span>
     </div>
   </div>
 </div>
 
 #### Is additional latch side clearance required on the push side of doors with a forward approach when either a latch or closer (but not both) is provided?
 
-No, latch clearance 12” minimum is required for forward approaches on the push-side of doors equipped with both a closer and a latch. If a door has a closer but no latch, or a latch and no closer, no additional latch side clearance is required (although providing the clearance is helpful in maneuvering through doors with closers without latches). This is also true for the additional depth required for hinge approaches on the push side when both a closer and latch is provided. For latch approaches, additional clearance is required on the push side and the pull side when just a closer is provided.
+No, latch clearance 12&Prime; minimum is required for forward approaches on the push-side of doors equipped with both a closer and a latch. If a door has a closer but no latch, or a latch and no closer, no additional latch side clearance is required (although providing the clearance is helpful in maneuvering through doors with closers without latches). This is also true for the additional depth required for hinge approaches on the push side when both a closer and latch is provided. For latch approaches, additional clearance is required on the push side and the pull side when just a closer is provided.
 
 #### Are screen doors or storm doors considered “doors in series”?
 

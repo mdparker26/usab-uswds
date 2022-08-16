@@ -10,7 +10,7 @@ This guide provides an introduction to the scoping requirements of the [ABA Stan
 
 ### Scoping Requirements
 
-![Diagram – circle labeled “Chapter 2” pointing circles representing Chapters 3 - 10]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc2.jpg){: .float-right .img-right}
+![Diagram – circle labeled “Chapter 2” pointing circles representing Chapters 3 through 10]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc2.jpg){: .float-right .img-right}
 
 Requirements in Chapter F2 indicate which elements and spaces must be accessible on a site or in a facility (the scope of coverage). These “scoping” requirements apply technical provisions in Chapters 3 – 10 to those covered elements and spaces provided on a site.
 
@@ -84,13 +84,13 @@ text= "Single occupant structures accessed only by below-grade passageways or el
 text2= "Examples: toll booths that are accessed by underground tunnels or elevated above curb height, such as those serving dedicated truck lanes"
 %}
 
-#### Detention/Correctional and Residential Facilities (§F203.8 - §F203.9)
+#### Detention/Correctional and Residential Facilities (§F203.8 through §F203.9)
 
 ![jail cell and house]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc12.jpg){: .float-right .thumbnail}
 
 Common use spaces in detention/ correctional facilities or residential facilities that do not serve accessible cells or dwelling units are exempt.
 
-#### Certain Sports/ Recreation and Other Structures (§F203.10 - §F203.14)
+#### Certain Sports/ Recreation and Other Structures (§F203.10 through §F203.14)
 
 ![boxing ring]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc13.jpg){: .float-right .thumbnail}
 

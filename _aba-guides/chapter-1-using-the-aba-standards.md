@@ -103,7 +103,7 @@ Provisions unique to private sector facilities in the ADA Standards, including a
 ##### _Emergency Transportable Housing (§F233, §809)_
 The ABA Standards include requirements for emergency transportable housing provided by the government in disasters and emergencies. Corresponding and additional revisions made to §F106.5, § F202.6, §F203.9, §F205.1, §F206, §F208, §F215.5, §F228.2, §405, §409.1, §604.5, §606, §607.4, §608 and §804.3.
 
-##### _Outdoor Developed Areas (§F244 - §F248, §1011 – §1019)_
+##### _Outdoor Developed Areas (§F244 through §F248, §1011 through §1019)_
 The ABA Standards address access to outdoor areas developed by the federal government, including trails, picnic and camping areas, and beach access routes. The ADA Standards do not yet include similar requirements for non-federal sites.
 
 #### The ADA Standards as implemented by DOT and DOJ include unique provisions not contained in the ABA Standards:

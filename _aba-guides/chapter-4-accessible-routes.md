@@ -6,6 +6,8 @@ file-description: PDF version of Chapter 4 Accessible Routes Guide
 ---
 This guide explains scoping and technical requirements for accessible routes in the [ABA Standards]({{ site.baseurl }}/aba/). 
 
+{% include sr-dimension-markings.html %}
+
 ### Where Required: Site Arrival Points
 
 [[§F206.2.1]({{ site.baseurl }}/aba/#aba-f206_2_1)]
@@ -160,19 +162,19 @@ Components of accessible routes include walking surfaces, doorways, ramps, curb 
 
 #### Components of Accessible Routes
 
-![Accessible route extends from ramp to door and elevator.  Handrail shown along a portion of the route.  Notes:  Doors, Doorways, and Gates (§404). Doors, doorways, and gates along accessible routes and to accessible spaces must comply.  Vertical Access (§405 - §410) Changes in level great than ½” must be spanned by ramps, curb ramps, or elevators. Platform lifts are allowed only in certain specified locations and in alterations. Handrails (§403.6) Handrails provided along walking surfaces must comply (and are required at most ramps and stairs).  Limited Changes in Level (§403.4) Changes in level up to ½” must be beveled (but can have a vertical edge if ¼” maximum). Walking Surface Slope (§403.3) The running slope of walking surfaces cannot exceed 1:20 (5%), but other components of accessible routes, such as ramps and curb ramps, can be more steeply sloped.  Cross slopes must be 1:48 max. Clearances (§403.5) The continuous clear width must be at least 36” (32” min. for short distances, such as doorways), and additional clearances are required for passing space and 180⁰ turns around narrow obstructions.  Surfaces (§403.2) All surfaces of accessible routes must be firm, stable, and slip resistant.   Carpeting and surface openings, where provided, must comply.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar23.jpg){: .img-large}
+![Accessible route extends from ramp to door and elevator.  Handrail shown along a portion of the route.  Notes:  Doors, Doorways, and Gates (§404). Doors, doorways, and gates along accessible routes and to accessible spaces must comply.  Vertical Access (§405 through §410) Changes in level great than ½ inch must be spanned by ramps, curb ramps, or elevators. Platform lifts are allowed only in certain specified locations and in alterations. Handrails (§403.6) Handrails provided along walking surfaces must comply (and are required at most ramps and stairs).  Limited Changes in Level (§403.4) Changes in level up to ½ inch must be beveled (but can have a vertical edge if ¼ inch maximum). Walking Surface Slope (§403.3) The running slope of walking surfaces cannot exceed 1:20 (5%), but other components of accessible routes, such as ramps and curb ramps, can be more steeply sloped.  Cross slopes must be 1:48 maximum Clearances (§403.5) The continuous clear width must be at least 36 inches (32 inches minimum for short distances, such as doorways), and additional clearances are required for passing space and 180⁰ turns around narrow obstructions.  Surfaces (§403.2) All surfaces of accessible routes must be firm, stable, and slip resistant.   Carpeting and surface openings, where provided, must comply.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar23.jpg){: .img-large}
 
 ### Clearances
 
 [[§403.5]({{ site.baseurl }}/aba/#aba-403_5)]
 
-The minimum 36” continuous clear width of accessible routes can reduce to 32” at points, such as doorways, for a maximum distance of 24”.  Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.  The minimum clearance cannot be reduced by any elements, including handrails or protruding objects.
+The minimum 36&Prime; continuous clear width of accessible routes can reduce to 32&Prime; at points, such as doorways, for a maximum distance of 24&Prime;.  Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.  The minimum clearance cannot be reduced by any elements, including handrails or protruding objects.
 
-![Plan view or route shown to be 36” wide min. with areas that are 32” wide min. that are 24” long max. and separated by 48” min.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar24.jpg){: .img-large}
+![Plan view or route shown to be 36 inches wide minimum with areas that are 32 inches wide minimum that are 24 inches long maximum and separated by 48 inches minimum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar24.jpg){: .img-large}
 
 #### 180 Turns Around Obstructions
 
-Additional clearance is required at 180 degree turns around an element that is less than 48” wide.  The clear width must be at least 48” at the turn and 42” minimum approaching the turn (unless the clear width at the turn is 60” minimum).
+Additional clearance is required at 180 degree turns around an element that is less than 48&Prime; wide.  The clear width must be at least 48&Prime; at the turn and 42&Prime; minimum approaching the turn (unless the clear width at the turn is 60&Prime; minimum).
 
 ![Two alternative plan views are shown of an accessible route that has a 180 degree turn about an object less than 48 inches wide.  In one figure, the clear width is 42 inches minimum approaching the turn, 48 inches minimum at the turn, and 42 inches minimum leaving the turn.  In other figure, the clear width is 36 inches minimum approaching the turn, 60 inches at the turn, and 36 inches minimum leaving the turn.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar25.jpg){: .img-large}
 
@@ -180,13 +182,13 @@ Additional clearance is required at 180 degree turns around an element that is l
 
 [[§403.5.3]({{ site.baseurl }}/aba/#aba-403_5_3)]
 
-Passing space is required every 200 feet and must be provided as a 60” by 60” minimum space or as T-shaped space where each stem is at least 48” long.
+Passing space is required every 200 feet and must be provided as a 60&Prime; by 60&Prime; minimum space or as T-shaped space where each stem is at least 48&Prime; long.
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4ar26.jpg" alt="Two people using wheelchairs passing in corridor with 60 inches by 60 inches passing space shown.">
-      <span class="grid-line bold">60” Min. by 60” Min. Passing Space</span>
+      <span class="grid-line bold">60&Prime; minimum by 60&Prime; minimum Passing Space</span>
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4ar27.jpg" alt="T-shaped passing space in corridor with each stem at least 48 inches long measured from the intersection. ">
@@ -199,13 +201,13 @@ Passing space is required every 200 feet and must be provided as a 60” by 60�
 
 [[§403.6]({{ site.baseurl }}/aba/#aba-403_6), [§505]({{ site.baseurl }}/aba/#aba-505)]
 
-Handrails are required at ramps with a rise greater than 6” and at stairs that are part of a means of egress, but not at other locations.  Where handrails are provided along other portions walking surfaces, they must comply.  (Handrails provided in elevator cabs or on platform lifts are not required to comply).
+Handrails are required at ramps with a rise greater than 6&Prime; and at stairs that are part of a means of egress, but not at other locations.  Where handrails are provided along other portions walking surfaces, they must comply.  (Handrails provided in elevator cabs or on platform lifts are not required to comply).
 
 #### Handrails along Walking Surfaces
 
 ![Corridor with doorway and adjacent handrail.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar28.jpg){: .img-right .img-medium}
    
-- 34” – 38” high measured to the top of the gripping surface.
+- 34&Prime; to 38&Prime; high measured to the top of the gripping surface.
 - Gripping surface must be continuous the full length and top and sides cannot be obstructed.
 - The bottom gripping surface can be obstructed up to 20% of the length (or along the full entire length when part of crash rails or bumper guards).
 - No sharp or abrasive elements on gripping surfaces or adjacent surfaces, and no rotation within fittings.
@@ -214,11 +216,11 @@ Surface requirements and clearances facilitate a power grip along the length of 
 
 #### Circular Cross Section and Clearance (§505.5, §505.7)
 
-![Handrail circular cross section 1/1/4” to 2” in diameter with a 1 ½” clearance behind and below.  Note:  Specifications for handrails also address the diameter of circular cross sections and required knuckle clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .img-large}
+![Handrail circular cross section 1 1/4 inches to 2 inches in diameter with a 1 ½ inches clearance behind and below.  Note:  Specifications for handrails also address the diameter of circular cross sections and required knuckle clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .img-large}
 
 #### Non-Circular Cross Section and Clearance (§505.5, §505.7)
 
-![Handrail non-circular cross section (square with rounded corners) with 2 ¼” max. dimension, rounded edges, 4” to 6 ¼” perimeter dimension, 1 ½” clearance behind, and clearance below that is 1 ½” (less 1/8” for each ½” additional perimeter dimension.  Note:  Non-circular cross sections must have rounded edges and meet perimeter and cross-section dimensions.  Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+![Handrail non-circular cross section (square with rounded corners) with 2 ¼ inches maximum dimension, rounded edges, 4 inches to 6 ¼ inches perimeter dimension, 1 ½ inches clearance behind, and clearance below that is 1 ½ inches (less 1/8 inches for each ½ inches additional perimeter dimension.  Note:  Non-circular cross sections must have rounded edges and meet perimeter and cross-section dimensions.  Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
 
 ### Common Questions
 
