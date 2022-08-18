@@ -6,6 +6,9 @@ file-description: PDF version of Chapter 5 Parking Spaces Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for parking. 
 
+{% include sr-dimension-markings.html %}
+
+
 ### Required Number
 
 [[§F208]({{ site.baseurl }}/aba/#aba-f208)]
@@ -21,9 +24,9 @@ Accessible parking spaces are required for each parking facility on a site, such
 
 <table class="usa-table">
     <caption> <span class="grid-line">Minimum Number of Accessible Parking Spaces Table</span>
-        <span class="grid-line">* <span id="1star">at least 1 of every 6 accessible spaces or fraction of 6</span></span>
-        <span class="grid-line">** <span id="2star">501 - 1000: 2% of total</span></span>
-        <span class="grid-line">*** <span id="3star">1001 and over: 20 + 1 for each 100 or fraction thereof over 1000</span></span>
+        <span class="grid-line"><span role="img" aria-label="1 asterisk">*</span> <span id="1star">at least 1 of every 6 accessible spaces or fraction of 6</span></span>
+        <span class="grid-line"><span role="img" aria-label="2 asterisks">**</span> 501 to 1000:<span id="2star"> 2% of total</span></span>
+        <span class="grid-line"><span role="img" aria-label="3 asterisks">***</span> 1001 and over:<span id="3star"> 20 + 1 for each 100 or fraction thereof over 1000</span></span>
     </caption>
     <thead>
         <col>
@@ -34,190 +37,190 @@ Accessible parking spaces are required for each parking facility on a site, such
         </tr>
         <tr>
             <th scope="col">Standard</th>
-            <th scope="col" aria-describedby="1star">Van*</th>
+            <th scope="col">Van <span role="img" aria-label="1 asterisk" aria-describedby="1star">*</span></th>
             <th scope="col">Total (Standard + Van)</th>
         </tr>
     </thead>
     <tbody>
         <tr>
-            <th scope="row">1 - 25</th>
+            <th scope="row">1 to 25</th>
             <td>0</td>
-            <td aria-describedby="1star">1</td>
+            <td>1</td>
             <td>1</td>
         </tr>
         <tr>
-            <th scope="row">26 – 50</th>
+            <th scope="row">26 to 50</th>
             <td>1</td>
-            <td aria-describedby="1star">1</td>
+            <td>1</td>
             <td>2</td>
         </tr>
         <tr>
-            <th scope="row">51 – 75</th>
+            <th scope="row">51 to 75</th>
             <td>2</td>
-            <td aria-describedby="1star">1</td>
+            <td>1</td>
             <td>3</td>
         </tr>
         <tr>
-            <th scope="row">76 – 100</th>
+            <th scope="row">76 to 100</th>
             <td>3</td>
-            <td aria-describedby="1star">1</td>
+            <td>1</td>
             <td>4</td>
         </tr>
         <tr>
-            <th scope="row">101 – 150</th>
+            <th scope="row">101 to 150</th>
             <td>4</td>
-            <td aria-describedby="1star">1</td>
+            <td>1</td>
             <td>5</td>
         </tr>
         <tr>
-            <th scope="row">151 - 200</th>
+            <th scope="row">151 to 200</th>
             <td>5</td>
-            <td aria-describedby="1star">1</td>
+            <td>1</td>
             <td>6</td>
         </tr>
         <tr>
-            <th scope="row">201 – 300</th>
+            <th scope="row">201 to 300</th>
             <td>5</td>
-            <td aria-describedby="1star">2</td>
+            <td>2</td>
             <td>7</td>
         </tr>
         <tr>
-            <th scope="row">301 – 400</th>
+            <th scope="row">301 to 400</th>
             <td>6</td>
-            <td aria-describedby="1star">2</td>
+            <td>2</td>
             <td>8</td>
         </tr>
         <tr>
-            <th scope="row">401 – 500</th>
+            <th scope="row">401 to 500</th>
             <td>7</td>
-            <td aria-describedby="1star">2</td>
+            <td>2</td>
             <td>9</td>
         </tr>
         <tr>
-            <th scope="row">501 – 550</th>
+            <th scope="row">501 to 550</th>
             <td>9</td>
-            <td aria-describedby="1star">2</td>
-            <td aria-describedby="2star">11**</td>
+            <td>2</td>
+            <td>11 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">551 – 600</th>
+            <th scope="row">551 to 600</th>
             <td>10</td>
-            <td aria-describedby="1star">2</td>
-            <td aria-describedby="2star">12**</td>
+            <td>2</td>
+            <td>12 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">601 – 650</th>
+            <th scope="row">601 to 650</th>
             <td>10</td>
-            <td aria-describedby="1star">3</td>
-            <td aria-describedby="2star">13**</td>
+            <td>3</td>
+            <td>13 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">651 – 700</th>
+            <th scope="row">651 to 700</th>
             <td>11</td>
-            <td aria-describedby="1star">3</td>
-            <td aria-describedby="2star">14**</td>
+            <td>3</td>
+            <td>14 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">701 – 750</th>
+            <th scope="row">701 to 750</th>
             <td>12</td>
-            <td aria-describedby="1star">3</td>
-            <td aria-describedby="2star">15**</td>
+            <td>3</td>
+            <td>15 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">751 – 800</th>
+            <th scope="row">751 to 800</th>
             <td>13</td>
-            <td aria-describedby="1star">3</td>
-            <td aria-describedby="2star">16**</td>
+            <td>3</td>
+            <td>16 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">801 – 850</th>
+            <th scope="row">801 to 850</th>
             <td>14</td>
-            <td aria-describedby="1star">3</td>
-            <td aria-describedby="2star">17**</td>
+            <td>3</td>
+            <td>17 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">851 – 900</th>
+            <th scope="row">851 to 900</th>
             <td>15</td>
-            <td aria-describedby="1star">3</td>
-            <td aria-describedby="2star">18**</td>
+            <td>3</td>
+            <td>18 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">901 – 950</th>
+            <th scope="row">901 to 950</th>
             <td>15</td>
-            <td aria-describedby="1star">4</td>
-            <td aria-describedby="2star">19**</td>
+            <td>4</td>
+            <td>19 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">951 – 1000</th>
+            <th scope="row">951 to 1000</th>
             <td>16</td>
-            <td aria-describedby="1star">4</td>
-            <td aria-describedby="2star">20**</td>
+            <td>4</td>
+            <td>20 <span role="img" aria-label="2 asterisks" aria-describedby="2star">**</span></td>
         </tr>
         <tr>
-            <th scope="row">1001 –1100</th>
+            <th scope="row">1001 to 1100</th>
             <td>17</td>
-            <td aria-describedby="1star">4</td>
-            <td aria-describedby="3star">21***</td>
+            <td>4</td>
+            <td>21 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1101 – 1200</th>
+            <th scope="row">1101 to 1200</th>
             <td>18</td>
-            <td aria-describedby="1star">4</td>
-            <td aria-describedby="3star">22***</td>
+            <td>4</td>
+            <td>22 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1201 – 1300</th>
+            <th scope="row">1201 to 1300</th>
             <td>19</td>
-            <td aria-describedby="1star">4</td>
-            <td aria-describedby="3star">23***</td>
+            <td>4</td>
+            <td>23 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1301 – 1400</th>
+            <th scope="row">1301 to 1400</th>
             <td>20</td>
-            <td aria-describedby="1star">4</td>
-            <td aria-describedby="3star">24***</td>
+            <td>4</td>
+            <td>24 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1401 – 1500</th>
+            <th scope="row">1401 to 1500</th>
             <td>20</td>
-            <td aria-describedby="1star">5</td>
-            <td aria-describedby="3star">25***</td>
+            <td>5</td>
+            <td>25 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1501 – 1600</th>
+            <th scope="row">1501 to 1600</th>
             <td>21</td>
-            <td aria-describedby="1star">5</td>
-            <td aria-describedby="3star">26***</td>
+            <td>5</td>
+            <td>26 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1601 – 1700</th>
+            <th scope="row">1601 to 1700</th>
             <td>22</td>
-            <td aria-describedby="1star">5</td>
-            <td aria-describedby="3star">27***</td>
+            <td>5</td>
+            <td>27 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1701 – 1800</th>
+            <th scope="row">1701 to 1800</th>
             <td>23</td>
-            <td aria-describedby="1star">5</td>
-            <td aria-describedby="3star">28***</td>
+            <td>5</td>
+            <td>28 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1801 – 1900</th>
+            <th scope="row">1801 to 1900</th>
             <td>24</td>
-            <td aria-describedby="1star">5</td>
-            <td aria-describedby="3star">29***</td>
+            <td>5</td>
+            <td>29 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
-            <th scope="row">1901 – 2000</th>
+            <th scope="row">1901 to 2000</th>
             <td>25</td>
-            <td aria-describedby="1star">5</td>
-            <td aria-describedby="3star">30***</td>
+            <td>5</td>
+            <td>30 <span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
         <tr>
             <th scope="row">2001 and over</th>
-            <td aria-describedby="3star 1star">(*** minus *)</td>
-            <td aria-describedby="1star">*</td>
-            <td aria-describedby="3star">***</td>
+            <td>(<span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span> minus <span role="img" aria-label="1 asterisk" aria-describedby="1star">*</span>)</td>
+            <td><span role="img" aria-label="1 asterisk" aria-describedby="1star">*</span></td>
+            <td><span role="img" aria-label="3 asterisks" aria-describedby="3star">***</span></td>
         </tr>
     </tbody>
 </table>
@@ -345,7 +348,7 @@ Requirements for accessible parking spaces address the size and marking of regul
 
 #### Accessible Routes and Access Aisles
 
-![Accessible parking space with access aisle adjoined by a curb ramp with a top landing 36” deep min.  Accessible route from access aisle on curb ramp and sidewalk highlighted.  Notes:   Accessible routes must connect directly to access aisles. Curb ramps, where provided, cannot protrude into access aisles (which cannot slope more than 1:48 max.) to accommodate wheelchair transfers and vehicle ramps or lifts (§502.4).  A landing at least 36” deep is required at the top of curb ramps; in alterations where space for this landing is unavailable, curb ramps must have side flares with a 1:12 max. slope (§406.4).    Bollards, signs, columns, or other elements cannot be located in the access aisle or reduce the minimum clear width of accessible routes.  Spaces and aisles must be designed so that parked vehicles do not obstruct the required clear width of adjacent accessible routes (§502.7).  Detail:  Parallel curb ramp with landing 48” min long, 60” preferred.  Note:  Where space for curb ramps is limited, including in alterations, parallel ramps can provide an alternative.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p15a.JPG){: .img-large}
+![Accessible parking space with access aisle adjoined by a curb ramp with a top landing 36 inches deep minimum  Accessible route from access aisle on curb ramp and sidewalk highlighted.  Notes: Accessible routes must connect directly to access aisles. Curb ramps, where provided, cannot protrude into access aisles (which cannot slope more than 1:48 maximum) to accommodate wheelchair transfers and vehicle ramps or lifts (§502.4). A landing at least 36 inches deep is required at the top of curb ramps; in alterations where space for this landing is unavailable, curb ramps must have side flares with a 1:12 maximum slope (§406.4). Bollards, signs, columns, or other elements cannot be located in the access aisle or reduce the minimum clear width of accessible routes.  Spaces and aisles must be designed so that parked vehicles do not obstruct the required clear width of adjacent accessible routes (§502.7).  Detail:  Parallel curb ramp with landing 48 inches minimum long, 60 inches preferred.  Note: Where space for curb ramps is limited, including in alterations, parallel ramps can provide an alternative.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p15a.JPG){: .img-large}
 
 {% include recommendation.html
 text= "Configure accessible routes so that they run in front of, instead of behind, parking spaces."
@@ -353,21 +356,21 @@ text= "Configure accessible routes so that they run in front of, instead of behi
 
 #### Accessible Parking Space
 
-![Two accessible parking spaces 8’ wide min. with an access aisle in between that is 5’ wide min. and as long as the space. Notes:  Vehicle Spaces (§502.2) Spaces must be marked to define the 96” minimum width.  Access Aisle (§502.3)  An access aisle at least 60” wide and at least as long as the parking space is required on either side of the parking space and must be marked to discourage parking in it. Two spaces can share one aisle.  Access aisles cannot overlap vehicular ways.  Surfaces (§502.4) Parking spaces and access aisles must meet requirements for floor and ground surfaces (§302) and cannot have changes in level other than slopes not exceeding 1:48. Markings (§502.1, §502.2, §502.3.3) Both the parking space and access aisle must be marked.  The marking method and color is not specified in the Standards, but may be addressed by state or local codes or regulations.  Detail:  width measured to centerline of marking.  Note:  The width of spaces and aisles is measured to the centerline of markings (but it can include the full width of lines where there is no adjacent parking space or aisles).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p16.jpg){: .img-large}
+![Two accessible parking spaces 8 feet wide minimum with an access aisle in between that is 5 feet wide minimum and as long as the space. Notes:  Vehicle Spaces (§502.2) Spaces must be marked to define the 96 inches minimum width.  Access Aisle (§502.3)  An access aisle at least 60 inches wide and at least as long as the parking space is required on either side of the parking space and must be marked to discourage parking in it. Two spaces can share one aisle.  Access aisles cannot overlap vehicular ways.  Surfaces (§502.4) Parking spaces and access aisles must meet requirements for floor and ground surfaces (§302) and cannot have changes in level other than slopes not exceeding 1:48. Markings (§502.1, §502.2, §502.3.3) Both the parking space and access aisle must be marked.  The marking method and color is not specified in the Standards, but may be addressed by state or local codes or regulations.  Detail:  width measured to centerline of marking.  Note:  The width of spaces and aisles is measured to the centerline of markings (but it can include the full width of lines where there is no adjacent parking space or aisles).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p16.jpg){: .img-large}
 
 ### Van Accessible Parking Spaces
 
-[[§502.1 - 502.5]({{ site.baseurl }}/aba/#aba-502_1)]
+[[§502.1 to 502.5]({{ site.baseurl }}/aba/#aba-502_1)]
 
 <div class="clearfix padding-left-1" markdown="1">
-![Person using wheelchair exiting van with ramp parking in accessible van space.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
+![Person using wheelchair exiting van with ramp parking in accessible van space.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
 
 At least one space for every 6 or fraction of 6 accessible spaces must be van accessible.  Van spaces provide an additional 3 feet of width to accommodate vehicles equipped with ramps or lifts. This extra space can be added to either the parking space or to the access aisle.  A wider access aisle saves space since two spaces can share one aisle, but wider spaces can help prevent misuse of the access aisle as a parking space.
 </div>
 
 #### Van Space: Wider Parking Space
 
-![Van accessible parking space 132” wide min. and access aisle 60” wide min.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p18-a.JPG){: .img-large}
+![Van accessible parking space 132 inches wide minimum and access aisle 60 inches wide minimum]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p18-a.JPG){: .img-large}
 
 {% include recommendation.html
 text= "Sizing all accessible spaces (or access aisles) for van accessibility provides greater convenience and helps ensure that van spaces remain available for those who need them.  Where a van space and regular accessible space share an aisle, it is advisable to have the access aisle serve the van space on the passenger side (as is required where van spaces are angled) since backing into spaces can be more difficult with vans."
@@ -375,7 +378,7 @@ text= "Sizing all accessible spaces (or access aisles) for van accessibility pro
    
 #### Van Space: Wider Access Aisle
   
-![Van accessible parking space 96” wide min. and access aisle 96” wide min.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p19.jpg){: .img-large}
+![Van accessible parking space 96 inches wide minimum and access aisle 96 inches wide minimum]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p19.jpg){: .img-large}
 
 #### Angled Van Spaces
 
@@ -396,7 +399,7 @@ text= "Where standard (non-van) accessible spaces are angled or otherwise restri
 
 [[§502.5]({{ site.baseurl }}/aba/#aba-502_5)]
 
-A 98” minimum vertical clearance is required for van parking spaces/ access aisles and the vehicle route to these spaces from an entrance and from these spaces to an exit.  Van spaces can be grouped on one level of parking structures.
+A 98 inches minimum vertical clearance is required for van parking spaces/ access aisles and the vehicle route to these spaces from an entrance and from these spaces to an exit.  Van spaces can be grouped on one level of parking structures.
 </div>
 
 {% include recommendation.html
@@ -420,11 +423,11 @@ Requirements for operable parts include:
 
 [§F216.5]({{ site.baseurl }}/aba/#aba-f216_5), [§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
 
-![Post-mounted accessible parking space sign 60” high min. measured to bottom edge]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p23.jpg){: .float-right .thumbnail}
+![Post-mounted accessible parking space sign 60 inches high minimum measured to bottom edge]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p23.jpg){: .float-right .thumbnail}
 
 Accessible spaces must be identified by signs with the International Symbol of Accessibility (ISA) (§703.7.2.1). Signs identifying van spaces must include the term “van accessible.” This designation is informative and does not restrict use of such spaces to van users only. No other text or content is required by the Standards.
 
-Signs must be at least 60” high measured to the bottom edge so that they are visible while vehicles are parked in a space. Signs can be on posts, or where feasible, on walls or suspended from ceilings (an 80” minimum headroom clearance is required at signs suspended above circulation paths (§307.4)). ISA designations on the parking surface, even if required by a state or local government, cannot substitute for above-ground signs that remain visible at all times.
+Signs must be at least 60 inches high measured to the bottom edge so that they are visible while vehicles are parked in a space. Signs can be on posts, or where feasible, on walls or suspended from ceilings (an 80 inches minimum headroom clearance is required at signs suspended above circulation paths (§307.4)). ISA designations on the parking surface, even if required by a state or local government, cannot substitute for above-ground signs that remain visible at all times.
 
 State or local codes and regulations may address other sign characteristics, including size, color, and additional content, such as “reserved” or violation fines, but the ABA Standards do not.
 
@@ -450,7 +453,7 @@ text= "At residential facilities, identification of accessible spaces is not req
 
 The Standards do not include specific provisions for electric vehicle (EV) charging stations. However, it is advisable to address access to EV charging stations so that they are usable by people with disabilities.  If provided, accessible spaces at EV charging stations cannot count toward the minimum number of accessible car and van parking spaces required in a parking facility.
 
-![Accessible EV charging station.  Notes:  Recommendations:  Provide access to a reasonable number of spaces serving EV charging stations or use the scoping table in §F208.2 to determine an appropriate number.  (The number of accessible spaces serving EV charging stations must be determined separately from the required number of car and van parking spaces.)  Provide an accessible route on both sides of the vehicle space that connects to the charging station for easier access.  A vehicle space at least 10’ – 13’ wide is advisable.  A 10’ width offers an extra 2’ that effectively provides a 5’ aisle on one side when paired with the accessible route; a 13’ wide space will allow an 8’ aisle. This flexibility is helpful since the parking direction is determined by the location of the charging station and the vehicle connection.  Use the International Symbol of Accessibility only where spaces are reserved exclusively for people with disabilities.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p28ab.jpg){: .img-large}
+![Accessible EV charging station.  Notes:  Recommendations:  Provide access to a reasonable number of spaces serving EV charging stations or use the scoping table in §F208.2 to determine an appropriate number.  (The number of accessible spaces serving EV charging stations must be determined separately from the required number of car and van parking spaces.)  Provide an accessible route on both sides of the vehicle space that connects to the charging station for easier access.  A vehicle space at least 10 feet to 13 feet wide is advisable.  A 10 feet width offers an extra 2 feet that effectively provides a 5 feet aisle on one side when paired with the accessible route; a 13 feet wide space will allow an 8 feet aisle. This flexibility is helpful since the parking direction is determined by the location of the charging station and the vehicle connection.  Use the International Symbol of Accessibility only where spaces are reserved exclusively for people with disabilities.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p28ab.jpg){: .img-large}
 
 ### Common Questions
 
@@ -484,7 +487,7 @@ No, the Standards exempt those spaces used exclusively for trucks, as well as bu
 
 ##### How is access to be provided to spaces for recreational vehicles?
 
-The ABA Standards include requirements for outdoor developed areas on federal lands such as camping and picnic facilities, trails, and beach access routes. These provisions address access to RV and other parking spaces at camping and picnic units as well as pull-up spaces at dump stations, including space width (minimum 20’, or 16’ in the case of a second adjoining space) and utility and sewage hook-ups (§1011 and §1012). These provisions can be consulted for guidance in addressing access to RV parking provided on other sites. At other types of sites with both RV and regular parking spaces, scoping should be applied separately to both types which will permit accessible RV spaces to be located among other RV spaces so long as they are on the shortest accessible route to facility entrances among such spaces.
+The ABA Standards include requirements for outdoor developed areas on federal lands such as camping and picnic facilities, trails, and beach access routes. These provisions address access to RV and other parking spaces at camping and picnic units as well as pull-up spaces at dump stations, including space width (minimum 20 feet, or 16 feet in the case of a second adjoining space) and utility and sewage hook-ups (§1011 and §1012). These provisions can be consulted for guidance in addressing access to RV parking provided on other sites. At other types of sites with both RV and regular parking spaces, scoping should be applied separately to both types which will permit accessible RV spaces to be located among other RV spaces so long as they are on the shortest accessible route to facility entrances among such spaces.
 
 ##### Are accessible parking spaces required on a site where valet service is provided but vehicles are parked off site, such as in a public parking garage or on public streets?
 
@@ -537,7 +540,7 @@ The ABA Standards require accessible spaces to be designated by the Internationa
 
 ##### Can surface decals substitute for post- or wall-mounted signs?
 
-No, the Standards require signs identifying accessible parking spaces that are at least 60” high measured to the bottom edge of the sign so that they are visible when a vehicle is parked in the space. Surface decals or other identifying features may be required by local or state codes and can be provided in addition to, but not in place of, signs required by the ABA Standards.
+No, the Standards require signs identifying accessible parking spaces that are at least 60 inches high measured to the bottom edge of the sign so that they are visible when a vehicle is parked in the space. Surface decals or other identifying features may be required by local or state codes and can be provided in addition to, but not in place of, signs required by the ABA Standards.
 
 ##### Is front-in only or angled parking prohibited for accessible parking spaces?
 
